@@ -5,3 +5,5 @@ all-vr.xlsx contains metadata for all paper publications from IEEE Virtual Reali
 all-vr.txt contains a subset of all_vr.txt in the format expected by vr_biblopmetrics.ipynb.
 
 vr_bibliometrics.ipynb does the intermediate computations to generate strategic diagrams.
+
+all_vr.bib is a bibtex file containing bibliographic information and abstracts for all 1591 papers associated with the IEEE VR conference (conference and TVCG special issues).
